@@ -1,0 +1,11 @@
+C:\Users\root\source\repos\DelegationSyntax\DelegationSyntax\bin\Debug\netcoreapp3.0\DelegationSyntax.exe
+C:\Users\root\source\repos\DelegationSyntax\DelegationSyntax\bin\Debug\netcoreapp3.0\DelegationSyntax.deps.json
+C:\Users\root\source\repos\DelegationSyntax\DelegationSyntax\bin\Debug\netcoreapp3.0\DelegationSyntax.runtimeconfig.json
+C:\Users\root\source\repos\DelegationSyntax\DelegationSyntax\bin\Debug\netcoreapp3.0\DelegationSyntax.runtimeconfig.dev.json
+C:\Users\root\source\repos\DelegationSyntax\DelegationSyntax\bin\Debug\netcoreapp3.0\DelegationSyntax.dll
+C:\Users\root\source\repos\DelegationSyntax\DelegationSyntax\bin\Debug\netcoreapp3.0\DelegationSyntax.pdb
+C:\Users\root\source\repos\DelegationSyntax\DelegationSyntax\obj\Debug\netcoreapp3.0\DelegationSyntax.csprojAssemblyReference.cache
+C:\Users\root\source\repos\DelegationSyntax\DelegationSyntax\obj\Debug\netcoreapp3.0\DelegationSyntax.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\DelegationSyntax\DelegationSyntax\obj\Debug\netcoreapp3.0\DelegationSyntax.AssemblyInfo.cs
+C:\Users\root\source\repos\DelegationSyntax\DelegationSyntax\obj\Debug\netcoreapp3.0\DelegationSyntax.dll
+C:\Users\root\source\repos\DelegationSyntax\DelegationSyntax\obj\Debug\netcoreapp3.0\DelegationSyntax.pdb
